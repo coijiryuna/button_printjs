@@ -8,10 +8,10 @@ Add new option **repeatingHead** inside the button settings.
 Below are the options for repeatingHead,
 ```javascript
 {
-logo: 'Your logo URL to be repeated',
-logoPosition: 'right', // left, center, right
-logoStyle: '', // any css eg: padding:10px;
-title: '<h3>Sample Heading</h3>' // your heading
+    logo: 'Your logo URL to be repeated',
+    logoPosition: 'right', // left, center, right
+    logoStyle: '', // any css eg: padding:10px;
+    title: '<h3>Sample Heading</h3>' // your heading
 }
 ```
 
