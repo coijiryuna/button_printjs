@@ -47,4 +47,14 @@ A sample is given below.
 ```
 
 ## Step 3
+
+If you want to remove the borders around logo, add a new class **dt-print-table** to your table and add below style to your css file.
+```css
+@media print
+{
+html, body { height: auto; }
+.dt-print-table, .dt-print-table thead, .dt-print-table th, .dt-print-table tr {border: 0 none !important;}
+}
+```
+
 Thats all, there is no step 3 :)
