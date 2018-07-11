@@ -57,4 +57,4 @@ html, body { height: auto; }
 }
 ```
 
-Thats all, there is no step 3 :)
+Thats all :)
