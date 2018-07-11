@@ -1,6 +1,6 @@
 ## Step 1
 Download below JS file and replace your print.button.js with below it,
-https://github.com/aravindnc/Buttons/blob/master/js/buttons.print.js
+https://github.com/aravindnc/Buttons/blob/repeating-print-head/js/buttons.print.js
 
 ## Step 2
 Add new option **repeatingHead** inside the button settings. 
